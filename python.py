@@ -1,0 +1,1 @@
+print("Original Code by Afan Shaikh.\nBatch of 2026\nMES Wadia COE.\n")
